@@ -1,0 +1,25 @@
+2026-08-04 00:11:46,737 - INFO - City set Succesfully
+2026-08-04 00:11:46,738 - INFO - Interest also set sucesfully...
+2026-08-04 00:11:46,739 - INFO - Generating itineary for Delhi and for itineary :['nature']
+2026-08-04 00:11:48,222 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-08-04 00:11:48,301 - ERROR - error while creating itineary:Error code: 404 - {'error': {'message': 'The model `` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-08-04 00:13:31,137 - INFO - City set Succesfully
+2026-08-04 00:13:31,137 - INFO - Interest also set sucesfully...
+2026-08-04 00:13:31,137 - INFO - Generating itineary for Kashmir and for itineary :['Mountains']
+2026-08-04 00:13:34,147 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-04 00:13:34,247 - INFO - Itineary generated succesfully
+2026-08-04 00:19:42,130 - INFO - City set Succesfully
+2026-08-04 00:19:42,130 - INFO - Interest also set sucesfully...
+2026-08-04 00:19:42,131 - INFO - Generating itineary for Kashmir and for itineary :['Mountains']
+2026-08-04 00:19:43,710 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-04 00:19:43,751 - INFO - Itineary generated succesfully
+2026-08-04 00:20:13,434 - INFO - City set Succesfully
+2026-08-04 00:20:13,435 - INFO - Interest also set sucesfully...
+2026-08-04 00:20:13,435 - INFO - Generating itineary for GOA and for itineary :['Beach']
+2026-08-04 00:20:14,538 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-04 00:20:14,539 - INFO - Itineary generated succesfully
+2026-08-04 00:21:38,495 - INFO - City set Succesfully
+2026-08-04 00:21:38,495 - INFO - Interest also set sucesfully...
+2026-08-04 00:21:38,496 - INFO - Generating itineary for Mysuru and for itineary :['Palace']
+2026-08-04 00:21:39,629 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-04 00:21:39,631 - INFO - Itineary generated succesfully
